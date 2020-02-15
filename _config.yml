@@ -1,0 +1,17 @@
+enable_disqus: false
+enable_analytics: false
+highlighter: rouge
+permalink: pretty
+
+_url: http://localhost:4000
+#_url: https://flaviomicheletti.github.io/linguagem-c
+#_url: http://www.devfuria.com.br/linguagem-c
+
+secao: html-css
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "artigo"
