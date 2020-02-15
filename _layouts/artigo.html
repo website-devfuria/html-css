@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+
+    {% include header.html %}
+
+    </head>
+    <body>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          {% include bread-crumb.html %}
+        </div>
+      </div>
+    </div>
+
+    {% include advertising.html %}
+
+    <article class="container">
+      <div class="row">
+        <div class="col-sm-offset-2 col-md-8">
+          <div class="page-header">
+            <h1>{{ page.title }} <br /><small>{{ page.description }}</small></h1>
+          </div>
+          {{ content }}
+        </div>
+      </div>
+    </article>
+
+    <hr />
+
+    {% include footer.html %}
+    {% include footer-js.html %}
+
+    </body>
+</html>
