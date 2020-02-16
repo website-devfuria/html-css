@@ -4,8 +4,8 @@ highlighter: rouge
 permalink: pretty
 
 #_url: http://localhost:4000
-_url: https://flaviomicheletti.github.io/linguagem-c
-#_url: http://www.devfuria.com.br/linguagem-c
+#_url: https://flaviomicheletti.github.io/html-css
+_url: http://www.devfuria.com.br/html-css
 
 secao: html-css
 
