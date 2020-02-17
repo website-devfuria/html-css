@@ -10,7 +10,13 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          {% include bread-crumb.html %}
+
+          {% comment %}bread-crumb{% endcomment %}
+          <ol class="breadcrumb navbar-static-top">
+              <li><a href="/">{{ site.dominio }}</a></li>
+              <li class="active">{{ site.baseurl | remove: "/" }}</a></li>
+          </ol>
+
         </div>
       </div>
     </div>
