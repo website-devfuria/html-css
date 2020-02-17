@@ -11,7 +11,7 @@ Depende do include "get-capítulo" pois é ele quem cria a variável 'capitulo'
 
 <div class="list-group">
     {% for artigo in capitulo %}
-        <a href="{{ artigo.url }}" class="list-group-item {% if artigo.url == page.url %}active{% endif %}">
+        <a href="{{ site.baseurl }}{{ artigo.url }}" class="list-group-item {% if artigo.url == page.url %}active{% endif %}">
             {{ artigo.title }}
         </a>
     {% endfor %}
