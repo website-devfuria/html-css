@@ -285,9 +285,4 @@ Aprenda mais sobre [tabelas](../tabelas/).
 
 ## Formulários
 
-```html
-```
-
-```html
-```
-
+Volta para a página o [índice](../) deste tutorial e procure pela seção exclusiva sobre __formulários__.

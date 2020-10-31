@@ -9,10 +9,10 @@ description: Guia prático e conciso.
 
 Seja muito bem vindo a este curso de HTML e CSS!
 
-Este projeto está disponível no [github](https://github.com/devfuria.com.br) e encontra-se na versão
-[0.1](https://github.com/devfuria.com.br/releases) de Janeiro de 2018, veja o log de
-[cada atualização](https://github.com/devfuria.com.br/commits/master).
-Utilize os comentários de cada página, caso tenha alguma dúvida. Se precisar de ajuda com seu código, utilize o github.
+Este projeto está disponível no [github](https://github.com/flaviomicheletti/html-css).
+
+Se precisar de ajuda com seu código ou quiser fazer alguma pegunta, abra uma 
+[issue](https://github.com/flaviomicheletti/html-css/issues) no github.
 
 
 ## Capítulo 1 - Introduzindo o HTML
