@@ -4,7 +4,6 @@ title:       Conteúdo de listas (ordenadas e não ordenadas)
 capitulo:    "html-intro"
 ordem:       7
 ---
-<!DOCTYPE html>
 <html>
     <head>
         <title>Conteúdo de listas (ordenadas e não ordenadas)</title>
