@@ -23,7 +23,7 @@ Eu separei este guia sobre HTML e CSS em duas partes:
 
 De forma a simplificar o primeiro contato com o assunto para quem está começando.
 
-Esta primeira parte deve ser o suficiente para desenvolvedores, principalmente para os backends.
+Esta primeira parte deve ser o suficiente para desenvolvedores.
 
 
 ### Capítulo 1 - Introduzindo o HTML
