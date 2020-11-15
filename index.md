@@ -52,13 +52,13 @@ Veja também o [primeiro web site da Internet](http://info.cern.ch/hypertext/WWW
 {% include menus.html %}
 
 
-## Capítulo 5 - Aplicando seu conhecimento
+### Capítulo 5 - Aplicando seu conhecimento
 
 {% include get-capitulo.html page_serie="html-aplicando-conhecimento" %}
 {% include menus.html %}
 
 
-## Capítulo 6 - Formulários Web
+### Capítulo 6 - Formulários Web
 
 {% include get-capitulo.html page_serie="html-formularios" %}
 {% include menus.html %}
@@ -80,31 +80,31 @@ Ela está em construção, então pode ser que voce se depare com alguns trechos
 Fique à vontade caso queira [colaborar](https://github.com/flaviomicheletti/html-css/issues).
 
 
-## Capítulo 8 - Tipografia
+### Capítulo 8 - Tipografia
 
 {% include get-capitulo.html page_serie="html-tipografia" %}
 {% include menus.html %}
 
 
-## Capítulo 9 - div´s
+### Capítulo 9 - div´s
 
 {% include get-capitulo.html page_serie="html-divs" %}
 {% include menus.html %}
 
 
-## Capítulo 10 - Centralizando
+### Capítulo 10 - Centralizando
 
 {% include get-capitulo.html page_serie="html-divs-centralizando" %}
 {% include menus.html %}
 
 
-## Capítulo 11 - Imagens
+### Capítulo 11 - Imagens
 
 {% include get-capitulo.html page_serie="html-imagens" %}
 {% include menus.html %}
 
 
-## Capítulo 12 - Layout
+### Capítulo 12 - Layout
 
 {% include get-capitulo.html page_serie="html-layout" %}
 {% include menus.html %}
