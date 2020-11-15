@@ -11,11 +11,13 @@ Seja muito bem vindo a este curso de HTML e CSS!
 
 Este projeto está disponível no [github](https://github.com/flaviomicheletti/html-css).
 
-Se precisar de ajuda com seu código ou quiser fazer alguma pegunta, abra uma 
+Se precisar de ajuda com seu código ou quiser fazer alguma pegunta, abra uma
 [issue](https://github.com/flaviomicheletti/html-css/issues) no github.
 
 
-## Capítulo 1 - Introduzindo o HTML
+## Para desenvolvedores (primeira parte)
+
+### Capítulo 1 - Introduzindo o HTML
 
 {% include get-capitulo.html page_serie="html-intro" %}
 {% include menus.html %}
@@ -23,79 +25,82 @@ Se precisar de ajuda com seu código ou quiser fazer alguma pegunta, abra uma
 Veja também o [primeiro web site da Internet](http://info.cern.ch/hypertext/WWW/TheProject.html).
 
 
-
-## Capítulo 2 - Introduzindo o CSS
+### Capítulo 2 - Introduzindo o CSS
 
 {% include get-capitulo.html page_serie="html-segundo" %}
 {% include menus.html %}
 
 
-
-## Capítulo 3 - Aplicando seu conhecimento
-
-{% include get-capitulo.html page_serie="html-aplicando-conhecimento" %}
-{% include menus.html %}
-
-
-
-## Capítulo 4 - Conheça os elementos básicos
+### Capítulo 3 - Conheça os elementos básicos
 
 {% include get-capitulo.html page_serie="html-elementos-basicos" %}
 {% include menus.html %}
 
 
-
-## Capítulo 5 - Conheça os estilos básicos
+### Capítulo 4 - Conheça os estilos básicos
 
 {% include get-capitulo.html page_serie="html-estilos-basicos" %}
 {% include menus.html %}
 
 
+## Capítulo 5 - Aplicando seu conhecimento
 
-## Capítulo 6 - Conceitos
+{% include get-capitulo.html page_serie="html-aplicando-conhecimento" %}
+{% include menus.html %}
+
+
+## Capítulo 6 - Formulários Web
+
+{% include get-capitulo.html page_serie="html-formularios" %}
+{% include menus.html %}
+
+
+### Capítulo 7 - Conceitos
 
 {% include get-capitulo.html page_serie="html-conceitos" %}
 {% include menus.html %}
 
 
+## Design (segunda parte)
 
-## Capítulo 7 - Tipografia
+Esta seção é dedicada aos designers, webmaster ou qualquer entusiasta da
+criação de páginas web.
+
+Ela está em construção, então pode ser que voce se depera com alguns trechos em obras.
+
+Fique à vontade caso queira [colaborar](https://github.com/flaviomicheletti/html-css/issues).
+
+
+## Capítulo 8 - Tipografia
 
 {% include get-capitulo.html page_serie="html-tipografia" %}
 {% include menus.html %}
 
 
-
-## Capítulo 8 - div´s
+## Capítulo 9 - div´s
 
 {% include get-capitulo.html page_serie="html-divs" %}
 {% include menus.html %}
 
 
-
-## Capítulo 9 - Centralizando
+## Capítulo 10 - Centralizando
 
 {% include get-capitulo.html page_serie="html-divs-centralizando" %}
 {% include menus.html %}
 
 
-
-## Capítulo 10 - Imagens
+## Capítulo 11 - Imagens
 
 {% include get-capitulo.html page_serie="html-imagens" %}
 {% include menus.html %}
 
 
-## Capítulo 11 - Layout
+## Capítulo 12 - Layout
 
 {% include get-capitulo.html page_serie="html-layout" %}
 {% include menus.html %}
 
 
-## Capítulo 12 - Formulários Web
-
-{% include get-capitulo.html page_serie="html-formularios" %}
-{% include menus.html %}
 
 <!--
 ## Sua vez...

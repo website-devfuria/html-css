@@ -3,7 +3,7 @@ layout:      basico3
 title:       Pseudoelementos
 description:
 capitulo:    "html-conceitos"
-ordem:       5
+ordem:       6
 ---
 
 Novamente encontramos o prefixo __pseudo__ invadindo a praia do HTML e CSS.

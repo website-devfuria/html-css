@@ -45,7 +45,7 @@ ordem:       9
     ```
    - sim
    - não
-7. Sobre o documentroot ...
+7. O documentroot...
   - é o local onde você instala o servidor
   - é o local onde devem ficar armazenados seus arquivos HTML
   - é onde configuramos o servidor web.

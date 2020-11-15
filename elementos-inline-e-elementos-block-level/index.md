@@ -3,7 +3,7 @@ layout:      basico3
 title:       Elementos in-line e elementos block-level
 description: Entenda a diferênça e como são renderizados os elementos HTML do tipo inline e block level.
 capitulo:    "html-conceitos"
-ordem:       6
+ordem:       5
 ---
 
 ![Figura ilustrando elementos htmtl do tipo inline e block level](inline-blocklevel-b.jpeg "Figura ilustrando elementos htmtl do tipo inline e block level")

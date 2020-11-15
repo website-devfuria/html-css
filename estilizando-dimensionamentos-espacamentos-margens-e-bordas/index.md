@@ -31,8 +31,10 @@ Podemos alterar a borda de um elemento com a propriedade `border-style`, veja es
 Como __exercício__, tente alterar o estilo desta página (use o plugin do navegador) explorando as propriedades acima apresentadas.
 
 
+<!--
 ## Pronto para o teste ?
 
 Agora você chegou ao fim dessa série introdutória sobre CSS eu gostaria de desafiá-lo a realizar nosso teste.
 
 Tem corajem ? Então, [faça o teste](../teste-seu-conhecimento-sobre-css-01/)
+-->
