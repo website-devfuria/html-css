@@ -4,7 +4,6 @@ title:       HTML & CSS
 description: Guia prático e conciso.
 ---
 
-
 ## Introdução
 
 Seja muito bem vindo a este curso de HTML e CSS!
@@ -16,6 +15,16 @@ Se precisar de ajuda com seu código ou quiser fazer alguma pegunta, abra uma
 
 
 ## Para desenvolvedores (primeira parte)
+
+Eu separei este guia sobre HTML e CSS em duas partes:
+
+1. Para desenvolvedores
+2. Para
+
+De forma a simplificar o primeiro contato com o assunto para quem está começando.
+
+Esta primeira parte deve ser o suficiente para desenvolvedores, principalmente para os backends.
+
 
 ### Capítulo 1 - Introduzindo o HTML
 
@@ -66,7 +75,7 @@ Veja também o [primeiro web site da Internet](http://info.cern.ch/hypertext/WWW
 Esta seção é dedicada aos designers, webmaster ou qualquer entusiasta da
 criação de páginas web.
 
-Ela está em construção, então pode ser que voce se depera com alguns trechos em obras.
+Ela está em construção, então pode ser que voce se depare com alguns trechos em obras.
 
 Fique à vontade caso queira [colaborar](https://github.com/flaviomicheletti/html-css/issues).
 
