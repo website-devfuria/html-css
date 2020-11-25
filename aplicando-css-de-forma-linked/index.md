@@ -27,7 +27,7 @@ ordem:       6
         <img src="css-linked.jpg" title="css linked" alt="[figura css linked]" />
 
         <p>Neste exemplo eu vou estilizar todos os parágrafos com a cor vermelha.</p>
-        <p>Só que, desta vez, vamos utilizar a forma linked (externa).<p/>
+        <p>Só que, desta vez, vamos utilizar a forma linked (externa).</p>
         <p>
             Precisamos criar um arquivo com o nome <code>arquiv.css</code> e adicionar o código abaixo <br />
             entre a tag <code>head</code> do codumento.
