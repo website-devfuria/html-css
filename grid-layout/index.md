@@ -2,7 +2,7 @@
 title:       Grid Layout
 description: Uma introdução Grid Layout
 capitulo:    "html-layout"
-ordem:       99
+ordem:       7
 ---
 
 Escrever introdução...
