@@ -7,7 +7,20 @@ ordem:       5
 
 ![](flex-container.svg)
 
-Neste artigo...
+Neste artigo é quase um guia visual (pouto texto e muita imagens) sobre um dos pilares do flex-box: __container__.
+
+Começaremos com este exemplo:
+
+```html
+<div class="container">
+  <div class="item">1</div>
+  <div class="item">2</div>
+  <div class="item">3</div>
+  <div class="item">4</div>
+</div>
+```
+
+Abaixo vemos um menu (pode clicar) das propriedades que iremos experimentar:
 
 - [flex-direction](#flex-direction)
 - [justify-content](#justify-content)
